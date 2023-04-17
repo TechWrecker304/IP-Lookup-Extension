@@ -1,4 +1,4 @@
-#IP Lookup Chrome Extension:
+IP Lookup Chrome Extension
 This Chrome Extension allows users to quickly look up IP addresses on centralops.net. By simply highlighting an IP address on a webpage, users can right-click and choose the "Lookup IP on centralops.net" option, which will then open a new tab displaying the results from centralops.net.
 
 Features
