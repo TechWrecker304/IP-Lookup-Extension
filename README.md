@@ -1,6 +1,6 @@
 # IP Lookup Chrome Extension
 
-A simple Chrome extension that allows users to look up IP addresses on centralops.net and iplocation.com. The extension adds a context menu item that lets users highlight an IP address on any webpage, then right-click and select "Lookup IP on centralops.net and iplocation.com" to fetch information from both sites. The results are displayed in a new tab, and users can download the combined output as an HTML file.
+A simple Chrome extension that allows users to look up IP addresses on centralops.net and iplocation.com. The extension adds a context menu item that lets users highlight an IP address on any webpage, then right-click and select "Lookup IP on centralops.net and iplocation.com" to fetch information from both sites. The results are displayed in a new tab, and users can download the combined output as an HTML file. NOTE: When the lookup runs you have to give it about 10 seconds or so before the results will appear.  There will be a Download button at the bottom of the file to download to your local machine. 
 
 ## Features
 
